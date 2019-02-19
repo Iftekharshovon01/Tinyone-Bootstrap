@@ -1,0 +1,160 @@
+body{
+	font-family: 'PT Sans', sans-serif;
+
+}
+header{
+	background-color: #fcdb00;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 4.5rem;
+    padding-left: 0.5rem;
+    font-size: 30px;
+    font-weight: 700px;
+}
+.navbar {
+    padding: 2.1rem 1rem;
+}
+.slider{
+	background-color: #fcdb00;
+}
+.control h1{
+color: #010101;
+font-size: 32px;
+font-weight: 400;
+margin-top: 20px;
+}
+.control h2{
+color: #010101;
+font-size: 32px;
+font-weight: 400;
+}
+.control p{
+color: #555555;
+font-size: 16px;
+font-weight: 400;
+margin-top: 20px;
+}
+.control ul{
+list-style: none;
+padding: 0px;
+margin-top: 20px;
+
+}
+.control ul li{
+	text-decoration: none;
+    
+}
+.control ul li a{
+color:#010101;
+float: left;
+padding: 0 15px;
+}
+.c-ind li{
+	height: 12px;
+	width: 12px;
+	border-radius: 50%;
+}
+.control{
+	margin-right: 48px;
+	margin-left: 16px;
+
+}
+.c-m6 {
+     margin-left: 95px;
+}
+.rw{
+padding-bottom: 50px;
+}
+/*.c-m5{
+	padding-top: 30px;
+}*/
+.text{
+text-align: center;
+}
+.text h1{
+	font-size: 32px;
+	font-weight: 700;
+	color: #010101;
+}
+.text h2{
+	font-size: 20px;
+	color: #313841;
+	font-weight: 400;
+}
+h1{
+color: #010101;
+font-size: 22px;
+font-weight: 400;
+}
+p{
+font-size: 16px;
+color: #898989;
+font-weight: 400;
+}
+.content{
+	padding: 90px 0;
+}
+.tb{
+	padding-bottom: 50px;
+}
+.keep{
+background-color: #010101;
+padding-top: 80px;
+padding-bottom: 50px;
+}
+.keep h1{
+font-size: 32px;
+font-weight: 700px;
+color: #fcdb00;
+}
+.keep h2{
+font-size: 20px;
+font-weight: 400px;
+color: #898989;
+padding-bottom: 20px;
+text-align: center;
+}
+.btnw{
+background-color: #fcdb00;
+font-size: 16px;
+font-weight: 700px;
+padding: 10px 35px;
+}
+.frmm1{
+ padding: 22px 250px
+}
+.list{
+padding-bottom: 50px;
+    padding-left: 75px;
+}
+.list ul{
+list-style: none;
+}
+.list li{
+text-decoration: none;
+float:left;
+padding-left: 30px;
+}
+.list li a{
+	color:#fcdb00;
+}
+.frm{
+	padding: 0.375rem 8.75rem;
+}
+.footer{
+background-color: #010101;
+}
+.bgc{
+text-align: center;
+    padding: 20px 0;
+}
+.bgc p{
+	color: #ffffff;
+	font-size: 16px;
+	font-weight: 400;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.bgc p a{
+	color: #ffffff;
+}
